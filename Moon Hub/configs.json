@@ -3,5 +3,7 @@
   "countdown": 300,
   "country_time": "en-US",
   "upgradeMining": 5,
-  "upgradeStorage": 5
+  "upgradeStorage": 5,
+  "delayEachAccount": [1, 81],
+  "referralCode": "ABuexiAm89DVdi"
 }
